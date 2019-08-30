@@ -1,6 +1,6 @@
-Vue.component('navigation', 
+Vue.component('navigation',
 	{
-  template: 
+  template:
 	`
 		<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 			<a class="navbar-brand" href="images/Company-Logos-Pictures/Phase 2 Logo.png">
@@ -32,7 +32,7 @@ Vue.component('navigation',
 		</nav>
 	`
 	}),
-	
+
 
 
 new Vue({ el: '#templateNav' })
