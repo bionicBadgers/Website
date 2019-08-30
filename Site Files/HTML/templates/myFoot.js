@@ -92,7 +92,7 @@ Vue.component('foot',
 					</div>
 				</div>
 				<div class="footer-bar">
-					<p>Phase 2 Company © 2018. All Rights Reserved.</p>
+					<p>Bionic Badgers of Wyoming © 2019. All Rights Reserved.</p>
 				</div>
 			</div>
 		</footer>
