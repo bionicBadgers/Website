@@ -1,6 +1,6 @@
-Vue.component('foot', 
+Vue.component('foot',
 	{
-  template: 
+  template:
 	`
 		<footer>
 			<div class="container">
@@ -56,6 +56,9 @@ Vue.component('foot',
 							<li>
 								<a href="https://icons8.com/material-icons">Some icons used on this page are from Icons8</a>
 							</li>
+							<li>
+								<a href="https://unsplash.com/@jesuskiteque">Some of our photos were taken by Jesus Kiteque</a>
+							</li>
 						</ul>
 					</div>
 					<div class="col-xs-12 col-sm-6 col-md-3">
@@ -95,7 +98,7 @@ Vue.component('foot',
 		</footer>
 	`
 	}),
-	
+
 
 
 new Vue({ el: '#templateFoot' })
