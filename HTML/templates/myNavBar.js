@@ -3,7 +3,7 @@ Vue.component('navigation',
   template:
 	`
 		<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-			<a class="navbar-brand" href="images/Company-Logos-Pictures/Phase 2 Logo.png">
+			<a class="navbar-brand" href="../../index.html">
 				<img src="../../images/Company-Logos-Pictures/Phase 2 Logo Expanded.png" alt="Company Logo " width="150em">
 			</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,7 +12,7 @@ Vue.component('navigation',
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item">
-						<a class="nav-link" href="../Home.html">Home </a>
+						<a class="nav-link" href="../../index.html">Home </a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="../Contact.html">Contact Us </a>

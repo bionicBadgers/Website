@@ -1,6 +1,6 @@
-Vue.component('foot', 
+Vue.component('foot',
 	{
-  template: 
+  template:
 	`
 		<footer>
 			<div class="container">
@@ -8,7 +8,7 @@ Vue.component('foot',
 					<div class="col-xs-12 col-md-3 col-sm-6">
 						<h3>About Us</h3>
 						<div class="mt-25">
-							<img alt="footer-logo" src="../images/Company-Logos-Pictures/Phase 2 Logo Expanded.png">
+							<img alt="footer-logo" src="../../images/Company-Logos-Pictures/Phase 2 Logo Expanded.png">
 							<p class="mt-25">This is where we talk about our media platforms and inclued links (int the bottom) of all the platforms we use.</p>
 								<div class="mt-25 footer-social-icons">
 									<ul>
@@ -89,13 +89,13 @@ Vue.component('foot',
 					</div>
 				</div>
 				<div class="footer-bar">
-					<p>Phase 2 Company © 2018. All Rights Reserved.</p>
+					<p>Bionic Badgers of Wyoming © 2019. All Rights Reserved.</p>
 				</div>
 			</div>
 		</footer>
 	`
 	}),
-	
+
 
 
 new Vue({ el: '#templateFoot' })
