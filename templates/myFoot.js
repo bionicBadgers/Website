@@ -72,21 +72,7 @@ Vue.component('foot',
 							</li>
 						</ul>
 					</div>
-					<div class="col-xs-12 col-sm-6 col-md-3">
-						<h3>Tags</h3>
-						<div class="footer-tags">
-							<a href="#">Business</a>
-							<a href="#">Light Gauge</a>
-							<a href="#">Steel Framing</a>
-							<a href="#">Drywall</a>
-							<a href="#">Gypsum Drywall</a>
-							<a href="#">Insulation</a>
-							<a href="#">Acoustics</a>
-							<a href="#">Wall Covering</a>
-							<a href="#">Painting</a>
-							<a href="#">Family Business</a>
-						</div>
-					</div>
+					
 				</div>
 				<div class="footer-bar">
 					<p>Bionic Badgers of Wyoming © 2019. All Rights Reserved.</p>

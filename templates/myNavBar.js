@@ -21,7 +21,7 @@ Vue.component('navigation',
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 							<a class="dropdown-item" href="Our Team.html">Our Team</a>
 							<a class="dropdown-item" href="Acoustics.html">Acoustics</a>
-							<a class="dropdown-item" href="Paint.html">Paint</a>
+							<a class="dropdown-item" href="Photos.html">Photo Library</a>
 						</div>
 					</li>
 				</ul>
