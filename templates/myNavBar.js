@@ -17,16 +17,6 @@ Vue.component('navigation',
 					<li class="nav-item">
 						<a class="nav-link" href="Our Team.html">Our Team </a>
 					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							Departments
-						</a>
-						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="Our Team.html">Our Team</a>
-							<a class="dropdown-item" href="Acoustics.html">Acoustics</a>
-							<a class="dropdown-item" href="Photos.html">Photo Library</a>
-						</div>
-					</li>
 				</ul>
 			</div>
 		</nav>
