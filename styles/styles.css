@@ -4,7 +4,7 @@
 	background-position:50% 50%;
 	padding:90px 0
 }
-	
+
 .section-block
 {
 	padding:90px 0;
@@ -85,7 +85,7 @@
 	height:3px;
 	background:#4516ceborder-radius:25%
 }
-	
+
 .notice-section h2,.notice-section-bg h2,.notice-section-grey h2
 {
 	position:relative;
@@ -117,7 +117,7 @@
 	font-weight:500;
 	color:#111
 }
-	
+
 .notice-section h6,.notice-section-bg h6,.notice-section-grey h6
 {
 	position:relative;font-size:20px;font-weight:500;color:#111
@@ -3912,6 +3912,11 @@ color:#333;
 float:right
 }
 
+.card-header
+{
+color:#000000;
+}
+
 .services-single-menu
 {
 border:1px solid #ececec
@@ -5974,5 +5979,3 @@ height:12px;
 background:#4516ce-webkit-transition-duration:.3s;
 transition-duration:.3s
 }
-
-
