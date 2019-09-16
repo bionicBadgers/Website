@@ -8,7 +8,7 @@ Vue.component('foot',
 					<div class="col-xs-12 col-md-3 col-sm-6">
 						<h3>About Us</h3>
 						<div class="mt-25">
-							<img alt="footer-logo" src="images/Company-Logos-Pictures/Phase 2 Logo Expanded.png">
+							<img alt="footer-logo" src="images/team_logo_transparent_background.png">
 							<p class="mt-25">This is where we talk about our media platforms and inclued links (int the bottom) of all the platforms we use.</p>
 								<div class="mt-25 footer-social-icons">
 									<ul>
@@ -55,6 +55,9 @@ Vue.component('foot',
 							</li>
 							<li>
 								<a href="https://unsplash.com/@jesuskiteque">Some of our photos were taken by Jesus Kiteque</a>
+							</li>
+							<li>
+								<a href="https://unsplash.com/@jesuskiteque">Some of our photos were taken by Rock'n Roll Monkey</a>
 							</li>
 						</ul>
 					</div>

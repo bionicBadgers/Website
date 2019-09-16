@@ -18,6 +18,9 @@ Vue.component('navigation',
 						<a class="nav-link" href="Our Team.html">Our Team </a>
 					</li>
 					<li class="nav-item">
+						<a class="nav-link" href="Sponsors.html">Sponsors</a>
+					</li>
+					<li class="nav-item">
 						<a class="nav-link" href="Photos.html">Photos </a>
 					</li>
 				</ul>
