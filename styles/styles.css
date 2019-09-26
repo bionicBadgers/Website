@@ -1272,7 +1272,7 @@ margin:15px 0
 
 .feature-block-icon i
 {
-color:#4516ce;
+color:#999;
 font-size:55px;
 -webkit-transition-duration:.3s;
 transition-duration:.3s
@@ -1342,7 +1342,7 @@ position:relative
 
 .feature-box i
 {
-color:#4516ce;
+color:#999;
 font-size:60px;
 transition-duration:.3s
 }
@@ -1424,7 +1424,7 @@ padding-left:10px
 
 .feature-flex-content h4,.feature-flex-content h4 a
 {
-color:#111;
+color:#;
 font-size:21px;
 font-weight:400
 }
@@ -1462,7 +1462,7 @@ transition-duration:.3s
 
 .feature-flex-square-icon i
 {
-color:#4516ce;
+color:##999;
 border-radius:10px;
 padding:10px;
 font-size:55px;
@@ -1555,7 +1555,7 @@ margin:25px 0 15px
 
 .feature-box-long i
 {
-color:#4516ce;
+color:#999;
 font-size:65px;
 -webkit-transition-duration:.3s;
 transition-duration:.3s
