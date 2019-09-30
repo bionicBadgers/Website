@@ -40,6 +40,23 @@ Vue.component('foot',
 								</div>
 							</div>
 					</div>
+
+					<div class="col-sm-12 col-sm-6 col-lg-3">
+						<h3>Useful Links</h3>
+						<ul class="footer-list">
+							<li>
+								<a href="https://www.firstinspires.org/robotics/ftc">First Tech Challenge</a>
+							</li>
+							<li>
+								<a href="#"> Place Useful Link Here</a>
+							</li>
+							<li>
+								<a href="#"> Place Useful Link Here</a>
+							</li>
+						</ul>
+					</div>
+
+					
 					<div class="col-sm-12 col-sm-6 col-lg-3">
 						<h3>Credited</h3>
 						<ul class="footer-list">
@@ -60,20 +77,7 @@ Vue.component('foot',
 							</li>
 						</ul>
 					</div>
-					<div class="col-sm-12 col-sm-6 col-lg-3">
-						<h3>Useful Links</h3>
-						<ul class="footer-list">
-							<li>
-								<a href="https://www.firstinspires.org/robotics/ftc">First Tech Challenge</a>
-							</li>
-							<li>
-								<a href="#"> Place Useful Link Here</a>
-							</li>
-							<li>
-								<a href="#"> Place Useful Link Here</a>
-							</li>
-						</ul>
-					</div>
+
 					<div class="col-md-12 col-sm-6 col-md-3">
 					<img alt="First Tech Challenge Logo"  src="images/FIRST Logo.png">
 					</div>
