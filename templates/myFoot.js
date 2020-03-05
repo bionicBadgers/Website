@@ -75,7 +75,7 @@ Vue.component('foot',
 
 				</div>
 				<div class="footer-bar">
-					<p>Bionic Badgers of Wyoming © 2019. All Rights Reserved.</p>
+					<p>Bionic Badgers of Wyoming © 2020. All Rights Reserved.</p>
 				</div>
 			</div>
 		</footer>
