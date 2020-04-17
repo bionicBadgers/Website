@@ -23,6 +23,9 @@ Vue.component('navigation',
 					<li class="nav-item">
 						<a class="nav-link" href="Photos.html">Photos </a>
 					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="Donations.html">Donations </a>
+					</li
 				</ul>
 			</div>
 		</nav>
