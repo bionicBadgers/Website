@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Bionic Badgers - Sponsors</title>
+		<meta content="width=device-width,initial-scale=1,maximum-scale=1" name="viewport">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+		<link href="styles/bootstrap.min.css" rel="stylesheet">
+		<link href="styles/slider.css" rel="stylesheet">
+		<link href="styles/animate.css" rel="stylesheet">
+		<link href="styles/default.css" rel="stylesheet">
+		<link href="styles/styles.css" rel="stylesheet">
+		<link rel="icon" href="images/team_logo_transparent_background.png" width="53" height="49">
+	</head>
+	<body>
+
+		<!-------------------------------------- START OF NAVBAR -------------------------------------->
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item" href="..\index.html">Home</a>
+              <a class="dropdown-item" href="contact.html">Contact</a>
+              <a class="dropdown-item" href="ourTeam.html">Our Team</a>
+              <a class="dropdown-item" href="donate.html">Donate</a>
+              <a class="dropdown-item" href="photos.html">Photos</a>
+              <a class="dropdown-item" href="sponsors.html">Sponsors</a>
+            </div>
+         
+
+		<!-------------------------------------- END OF NAVBAR -------------------------------------->
+        <h1> Welcome to the Bionic Badgers<br> Donations Page!<br></h1>
+		<!-------------------------------------- START OF PAINT -------------------------------------->
+		<div class="section-block-grey">
+					<div class="container">
+						<div class="section-heading center-holder">
+								<h3>Our Sponsors</h3>
+							<div class="section-heading-line"></div>
+                        </div>
+                
+                          
+						<div class="row">
+							<div class="text-center">
+                                  <div class="align-center">
+                                    <img src="badgers.jpg" class="rounded" alt="badgers">
+                                  </div>
+                                
+                            </div>
+                            
+                     
+                              <class="card">
+                                <h1 class="card-title">Why Support?</h1>
+                                <div class="card-body">
+                                  Fundraising is an essential part of our team’s season. We need funds for supplies, competition fees, travel costs, and robot building. On top of this our team is a nonprofit organization which runs completly on support from our community. There are many ways people can help our team donations, financial and supplies, funraisers, and sponsorship.  
+                            
+                                </div>
+                                <hr>
+                                <div>
+                                    <div class="banner">
+                                      <div class="app-text"></div>
+                                    </div> 
+                                   <h3>Our team competes in the first tech challenge.<br> Every year we raise to the challenge 
+                                     and have fun at the competion <br>
+                                      But parts and supplies for FTC are expensive and our small team can't get all the parts on our own.<br> So we must look for people willing to help suport or team!<br>
+                                      If you are willing to help our team with donations such as parts and peices, being a one time donator, or even a suponsor of our team. There are many options.
+                                   </div>
+                                            
+        </nav>  	
+      </div>
+      <div class="container-fluid py-3">
+        <div class="row">
+            <div class="col-12 col-sm-8 col-md-6 col-lg-4 mx-auto">
+                <div id="pay-invoice" class="card">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h3 class="text-center">Pay Invoice</h3>
+                        </div>
+                        <hr>
+                        <form action="/echo" method="post" novalidate="novalidate" class="needs-validation">
+                            
+                           
+                            <div class="form-group">
+                                <label for="cc-number" class="control-label mb-1">Card number</label>
+                                <input id="cc-number" name="cc-number" type="tel" class="form-control cc-number identified visa" required autocomplete="off"  >
+                                <span class="invalid-feedback">Enter a valid 12 to 16 digit card number</span>
+                            </div>
+                            <div class="row">
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label for="cc-exp" class="control-label mb-1">Expiration</label>
+                                        <input id="cc-exp" name="cc-exp" type="tel" class="form-control cc-exp" required placeholder="MM / YY" autocomplete="cc-exp">
+                                        <span class="invalid-feedback">Enter the expiration date</span>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <label for="x_card_code" class="control-label mb-1">CVV</label>
+                                    <div class="input-group">
+                                        <input id="x_card_code" name="x_card_code" type="tel" class="form-control cc-cvc" required autocomplete="off">
+                                        <span class="invalid-feedback order-last">Enter the 3-digit code on back</span>
+                                        <div class="input-group-append">
+                                            <div class="input-group-text">
+                                            <span class="fa fa-question-circle fa-lg" data-toggle="popover" data-container="body" data-html="true" data-title="CVV" 
+                                            data-content="<div class='text-center one-card'>The 3 digit code on back of the card..<div class='visa-mc-cvc-preview'></div></div>"
+                                            data-trigger="hover"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                              <label for="x_zip" class="control-label mb-1">Postal code</label>
+                              <input id="x_zip" name="x_zip" type="text" class="form-control" value="" data-val="true" data-val-required="Please enter the ZIP/Postal code" autocomplete="postal-code">
+                              <span class="help-block" data-valmsg-for="x_zip" data-valmsg-replace="true"></span>
+                          </div>
+                           <div class="form-group">
+                              <label for="x_promotion" class="control-label mb-1">Promotion Code</label>
+                              <input id="x_promotion" name="x_prom" type="text" class="form-control" value="" data-val="true" data-val-required="Please enter the Promotion  code" >
+                              <span class="help-block" data-valmsg-for="x_promotion" data-valmsg-replace="true"></span>
+                          </div>
+                          
+                          <div>
+                              <button id="payment-button" type="submit" class="btn btn-lg btn-info btn-block">
+                                  <i class="fa fa-lock fa-lg"></i>&nbsp;
+                                  <span id="payment-button-amount">Pay </span>
+                                  <span id="payment-button-sending" style="display:none;">Sending…</span>
+                              </button>
+                          </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+              </div>
+
+		<!-------------------------------------- END OF PAINT -------------------------------------->
+
+		<!-------------------------------------- START OF FOOTER -------------------------------------->
+
+		<div id="templateFoot" v-html>
+			<foot></foot>
+		</div>
+
+		<!-------------------------------------- END OF FOOTER -------------------------------------->
+
+		<!-------------------------------------- START OF SCRIPTS -------------------------------------->
+
+		<script src="java script/vue.js"></script>
+		<script src="java script/jquery-3.3.1.js"></script>
+		<script src="java script/popper.js"></script>
+		<script src="java script/bootstrap.min.js"></script>
+
+			<!-------------------------------------- START OF TEMPLATES -------------------------------------->
+
+			<script type="text/javascript" src="templates/myNavBar.js"></script>
+			<script type="text/javascript" src="templates/myFoot.js"></script>
+
+			<!-------------------------------------- END OF TEMPLATES -------------------------------------->
+
+		<!-------------------------------------- END OF SCRIPTS -------------------------------------->
+
+	</body>
+</html>
