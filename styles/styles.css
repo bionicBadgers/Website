@@ -1,4 +1,8 @@
-﻿.section-block-bg,.section-block-parallax
+body {
+ background-image: url("images\TestBackground.jpg");
+}
+
+.section-block-bg,.section-block-parallax
 {
 	background-size:cover;
 	background-position:50% 50%;
