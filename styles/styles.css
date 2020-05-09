@@ -1,5 +1,5 @@
 body {
- background-image: url("images\TestBackground.jpg");
+ background-image: url("images\TestBackground.jpg") !important;
 }
 
 .section-block-bg,.section-block-parallax
