@@ -1,3 +1,5 @@
-Howdy! Welcome to the files for the Bionic Badgers of Wyoming website. We are a FIRST Tech Challenge Robotics Team! 
+Howdy! Welcome to the files for the Bionic Badgers of Wyoming website. We are a FIRST Tech Challenge Robotics Team! We used BootStrap to get our site of the ground. 
 
-Additionally, we used BootStrap to get our site of the ground. Please take a look at it! https://bionicbadgers.github.io/Website/
+Please visit our site! https://bionicbadgers.github.io/Website/
+
+Thanks!
