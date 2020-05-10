@@ -9,14 +9,14 @@
 .section-block
 {
 	padding:90px 0;
-	background-image: url('TestBackground4.png') !important;
+	background-image: url('TestBackground10.png') !important;
 
 }
 
 .section-block-grey
 {
 	padding:90px 0;
-	background-color:#f9f9f9
+	background-image: url('TooDistracting1.png');
 }
 
 .section-block-dark
@@ -432,7 +432,7 @@ color:#4516cemargin-right:8px
 .social-icons
 {
 padding:0;
-float:right;
+float:center;
 margin:0
 }
 
@@ -444,7 +444,8 @@ float:left;
 width:35px;
 text-align:center;
 margin:0;
-padding:13px 0
+padding:13px 0;
+align: center;
 }
 
 .social-icons li a
