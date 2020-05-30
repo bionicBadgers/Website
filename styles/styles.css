@@ -1,14 +1,9 @@
-p {
-	font-size: 18px !important;
-}
 
 .card, .card-header {
 			background-image: url('TooDistracting1.png')
 }
 
-
-
-.jumbotron-fluid, .jombotron {
+.jumbotron-fluid, .jumbotron {
 	background-image: url('TooDistracting1.png')
 }
 .section-block-bg,.section-block-parallax
